@@ -1,0 +1,36 @@
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+.card {
+  text-align: center;
+}
+.count-heading {
+  color: #0f172a;
+  font-size: 40px;
+}
+.para {
+  color: #334155;
+  font-size: 20px;
+}
+.button {
+  background-color: white;
+  color: black;
+  width: 100px;
+  border-radius: 8px;
+  padding: 5px;
+  border-width: 0px;
+}
+
+.desc {
+  color: #1e293b;
+}
+
+.footer {
+  color: white;
+  font-size: 15px;
+}
